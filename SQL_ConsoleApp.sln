@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL_ConsoleApp", "SQL_ConsoleApp\SQL_ConsoleApp.csproj", "{28D3A88C-B42D-44E0-B22C-973F79CA4F16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28D3A88C-B42D-44E0-B22C-973F79CA4F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D3A88C-B42D-44E0-B22C-973F79CA4F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D3A88C-B42D-44E0-B22C-973F79CA4F16}.Debug|x64.ActiveCfg = Debug|x64
+		{28D3A88C-B42D-44E0-B22C-973F79CA4F16}.Debug|x64.Build.0 = Debug|x64
+		{28D3A88C-B42D-44E0-B22C-973F79CA4F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D3A88C-B42D-44E0-B22C-973F79CA4F16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28D3A88C-B42D-44E0-B22C-973F79CA4F16}.Release|x64.ActiveCfg = Release|x64
+		{28D3A88C-B42D-44E0-B22C-973F79CA4F16}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FF5DDB8-9AB1-489F-B46A-693AA6A625A8}
+	EndGlobalSection
+EndGlobal
