@@ -10,8 +10,5 @@ namespace SQL_ConsoleApp
             SqlCeCommand command;
             Utils.SQL_Console(out connection, out command);
         }
-
-        
-        }
     }
 }
